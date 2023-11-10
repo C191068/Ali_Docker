@@ -85,6 +85,10 @@ a change in microservice can take our system down <br>
 
 securing all mcroservices is not so easy <br>
 
+# Microservice benefits <br>
+
+since each microservice runs at its own space <br>
+
 
 
 
