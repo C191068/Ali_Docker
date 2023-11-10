@@ -39,7 +39,10 @@ there is no srong bound since we exose functionality through AI <br>
 
 they can be written by smaller teams nd each can use their own <br>
 
-programming languages <br>
+programming languages like Go, PHP and C# <br>
+
+
+
 
 
 
