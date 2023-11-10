@@ -96,6 +96,8 @@ a microservice runs on open source technologies <br>
 
 so there is a less vendor lock in <br>
 
+since they are smaller they are easier to understand <br>
+
 
 
 
