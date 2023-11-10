@@ -103,6 +103,10 @@ it makes them faster to deploy <br>
 
 and easier to scale <br>
 
+so we have to make sure that our team is well trained and has made <br>
+
+some proof of concept <br>
+
 
 
 
