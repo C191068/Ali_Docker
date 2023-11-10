@@ -118,6 +118,9 @@ we aready to manage multiple databases <br>
 
 calls throug microservices will go through apis <br>
 
+and this will add a bit of latency to all calls <br>
+
+
 
 
 
