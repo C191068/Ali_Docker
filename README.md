@@ -139,6 +139,8 @@ cloud ntive uses containers , service meshes , microservices ,immutable <br>
 infrastructre <br>
 and declarative apis <br>
 
+immutable infrastucture mens we usually nevr udate something <br>
+
 
 
 
