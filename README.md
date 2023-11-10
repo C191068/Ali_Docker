@@ -92,6 +92,8 @@ since each microservice runs at its own adress space <br>
 there are less chances if one of them goes the whole system will go down <br>
 
 
+a microservice runs on open source technologies <br>
+
 
 
 
