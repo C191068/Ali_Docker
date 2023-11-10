@@ -156,6 +156,9 @@ we deloy eye impact changes on a frequent basis <br>
 and finally we use a series of oen source projects to run our system <br>
 
 
+![Screenshot from 2023-11-10 15-47-53](https://github.com/C191068/Ali_Docker/assets/89090776/27eb0f2c-7780-47b3-85eb-23dd0ee124a7)
+
+the above cncf landscape graph shows a ton of open source projects <br>
 
 
 
