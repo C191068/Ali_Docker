@@ -71,6 +71,9 @@ Martin fowler author author of atterns of entrrise applice architecture <br>
 
 book documented a way to achieve such transformation <br>
 
+using yhe strangler pattern <br>
+
+
 
 
 
