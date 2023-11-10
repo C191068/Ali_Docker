@@ -141,6 +141,8 @@ and declarative apis <br>
 
 immutable infrastucture mens we usually nevr udate something <br>
 
+but we replace it with newer version <br>
+
 
 
 
