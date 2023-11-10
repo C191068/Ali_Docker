@@ -135,6 +135,10 @@ cloud native is away to build and architect comlex system <br>
 taking dvantage of modern develoment practices <br>
 and use of cloud infrastructure <br>
 
+cloud ntive uses containers , service meshes , microservices ,immutable <br>
+infrastructre <br>
+
+
 
 
 
