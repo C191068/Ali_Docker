@@ -153,7 +153,7 @@ and instead of making changes once every six months <br>
 we deloy eye impact changes on a frequent basis <br>
 
 
-
+and finally we use a series of oen source projects to run our system <br>
 
 
 
