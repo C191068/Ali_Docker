@@ -130,6 +130,9 @@ so we will amke sure to imlemet some retry stategy to our code <br>
 
 by using aservice mesh <br>
 
+cloud native is away to build and architect comlex system <br>
+
+
 
 
 
