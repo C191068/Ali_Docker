@@ -60,6 +60,12 @@ microservices are deloyed indeendently <br>
 they can be scaled independently also <br>
 
 
+how can we convert monolithic system to icroservice architecture <br>
+
+we need to break it into small units <br>
+
+unlike the code that dealt with ientiy in busines layer <br>
+
 
 
 
