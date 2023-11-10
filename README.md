@@ -33,5 +33,8 @@ let us say we have a class that deal with idenity with business layer <br>
 
 we can extract that code and place it in own mcroservice <br>
 
+we can then scale each of these smaller pieces indeendently from each other <br>
+
+
 
  
