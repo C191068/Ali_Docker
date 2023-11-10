@@ -99,6 +99,8 @@ so there is a less vendor lock in <br>
 since they are smaller they are easier to understand <br>
 
 
+it makes them faster to deploy <br>
+
 
 
 
