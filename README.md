@@ -67,6 +67,10 @@ we need to break it into small units <br>
 unlike the code that dealt with ientiy in busines layer <br>
 
 
+Martin fowler author author of atterns of entrrise applice architecture <br>
+
+book documented a way to achieve such transformation <br>
+
 
 
 
