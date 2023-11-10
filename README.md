@@ -120,6 +120,8 @@ calls throug microservices will go through apis <br>
 
 and this will add a bit of latency to all calls <br>
 
+so we make sure we test for that <br>
+
 
 
 
