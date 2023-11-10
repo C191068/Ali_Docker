@@ -35,6 +35,21 @@ we can extract that code and place it in own mcroservice <br>
 
 we can then scale each of these smaller pieces indeendently from each other <br>
 
+there is no srong bound since we exose functionality through AI <br>
+
+they can be written by smaller teams nd each can use their own <br>
+
+programming languages <br>
+
+
+
+
+
+
+
+
+
+
 
 
  
