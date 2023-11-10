@@ -7,5 +7,11 @@
 Monolethic archutect are build on a single unit <br>
 it means an IDE will hold ultile projects and will be comile in a single unit <br>
 
-they are also deployed as asingle unit <br>
+they are also deployed as a single unit <br>
+
+they are dulicated on each server <br>
+
+it means if we hd to scale the system we have to spin the new VM <br>
+
+and copy and delpoy the whole system on VM <br>
 
