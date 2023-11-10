@@ -24,4 +24,6 @@ even though the system was separated into layers iut was tighty coupled from the
 
  and the whole system will run in same address space <br>
 
+ with microswervies we break our big sytem into smaller parts <br>
+
  
