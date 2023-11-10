@@ -150,6 +150,9 @@ cretion and udates are autumated <br>
 
 and instead of making changes once every six months <br>
 
+we deloy eye impact changes on a frequent basis <br>
+
+
 
 
 
