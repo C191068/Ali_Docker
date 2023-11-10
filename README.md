@@ -101,6 +101,9 @@ since they are smaller they are easier to understand <br>
 
 it makes them faster to deploy <br>
 
+and easier to scale <br>
+
+
 
 
 
