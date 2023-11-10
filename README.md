@@ -144,6 +144,9 @@ immutable infrastucture mens we usually nevr udate something <br>
 but we replace it with newer version <br>
 
 Loosly couled system means functionalities are exosed through APIs <br>
+obsevable with th use o metrics <br>
+
+
 
 
 
