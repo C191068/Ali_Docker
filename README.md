@@ -116,6 +116,9 @@ deployment may appear simpler <br>
 
 we aready to manage multiple databases <br>
 
+calls throug microservices will go through apis <br>
+
+
 
 
 
