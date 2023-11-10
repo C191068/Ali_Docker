@@ -112,6 +112,8 @@ testing might appear simpler since there are less functionality <br>
 in a microservice to test <br>
 
 
+deployment may appear simpler <br>
+
 
 
 
