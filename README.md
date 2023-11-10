@@ -128,6 +128,9 @@ but if we try again 59 milliseonds later and it will work <br>
 
 so we will amke sure to imlemet some retry stategy to our code <br>
 
+by using aservice mesh <br>
+
+
 
 
 
