@@ -7,3 +7,5 @@
 Monolethic archutect are build on a single unit <br>
 it means an IDE will hold ultile projects and will be comile in a single unit <br>
 
+they are also deployed as asingle unit <br>
+
