@@ -132,6 +132,8 @@ by using aservice mesh <br>
 
 cloud native is away to build and architect comlex system <br>
 
+taking dvantage of modern develoment practices <br>
+
 
 
 
