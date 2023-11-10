@@ -74,6 +74,9 @@ book documented a way to achieve such transformation <br>
 using yhe strangler pattern <br>
 
 
+# Micrservoces anti pattern <br>
+
+
 
 
 
