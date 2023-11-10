@@ -53,6 +53,12 @@ the way we will deploy a monolithic system  is by deloying everything on a serve
 we have to scale and deploy everything on more servers <br>
 
 
+microservices are deloyed indeendently <br>
+
+![Screenshot from 2023-11-10 14-36-23](https://github.com/C191068/Ali_Docker/assets/89090776/f0205911-399f-4367-8df7-0d6fb9904778)
+
+they can be scaled independently also <br>
+
 
 
 
