@@ -15,3 +15,7 @@ it means if we hd to scale the system we have to spin the new VM <br>
 
 and copy and delpoy the whole system on VM <br>
 
+![Screenshot from 2023-11-10 14-14-09](https://github.com/C191068/Ali_Docker/assets/89090776/9f853290-49a3-4cad-9538-007ec1d7fdb1)
+
+examle is 3 tier application <br>
+
