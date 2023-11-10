@@ -122,6 +122,10 @@ and this will add a bit of latency to all calls <br>
 
 so we make sure we test for that <br>
 
+trnsient error means if we make a call it will fail <br>
+
+but if we try again 59 milliseonds later and it will work <br>
+
 
 
 
