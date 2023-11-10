@@ -146,6 +146,9 @@ but we replace it with newer version <br>
 Loosly couled system means functionalities are exosed through APIs <br>
 obsevable with th use o metrics <br>
 
+cretion and udates are autumated <br>
+
+
 
 
 
