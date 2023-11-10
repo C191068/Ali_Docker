@@ -26,4 +26,8 @@ even though the system was separated into layers iut was tighty coupled from the
 
  with microswervies we break our big sytem into smaller parts <br>
 
+ each wit its own responsibility <br>
+
+ 
+
  
