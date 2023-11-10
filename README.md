@@ -87,7 +87,11 @@ securing all mcroservices is not so easy <br>
 
 # Microservice benefits <br>
 
-since each microservice runs at its own space <br>
+since each microservice runs at its own adress space <br>
+
+there are less chances if one of them goes the whole system will go down <br>
+
+
 
 
 
