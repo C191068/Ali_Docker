@@ -46,7 +46,9 @@ domain specific data can be stored in separate dataases <br>
 ![Screenshot from 2023-11-10 14-31-05](https://github.com/C191068/Ali_Docker/assets/89090776/131d9333-24e9-4f3d-b1aa-826f77c8694d)
 
 
-the way we will deploy a monolithic system <br>
+the way we will deploy a monolithic system  is by deloying everything on a server <br>
+
+
 
 
 
