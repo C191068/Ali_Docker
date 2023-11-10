@@ -105,7 +105,7 @@ and easier to scale <br>
 
 so we have to make sure that our team is well trained and has made <br>
 
-some proof of concept <br>
+some proof of concept and make sure to add one iece at a time  <br>
 
 
 
