@@ -78,6 +78,10 @@ using yhe strangler pattern <br>
 
 
 
+fro one monolithic system if we handle a bunch of small pieces there is a risk of unnecessary <br>
+complexities <br>
+
+
 
 
 
