@@ -29,5 +29,9 @@ even though the system was separated into layers iut was tighty coupled from the
  each wit its own responsibility <br>
 
  
+let us say we have a class that deal with idenity with business layer <br>
+
+we can extract that code and place it in own mcroservice <br>
+
 
  
