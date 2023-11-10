@@ -19,3 +19,9 @@ and copy and delpoy the whole system on VM <br>
 
 examle is 3 tier application <br>
 
+even though the system was separated into layers iut was tighty coupled from the web project <br>
+ to the business layer project <br>
+
+ and the whole system will run in same address space <br>
+
+ 
