@@ -11,7 +11,7 @@ they are also deployed as a single unit <br>
 
 they are dulicated on each server <br>
 
-it means if we hd to scale the system we have to spin the new VM <br>
+it means if we had to scale the system we have to spin the new VM <br>
 
 and copy and delpoy the whole system on VM <br>
 
