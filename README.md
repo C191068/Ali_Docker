@@ -5,7 +5,7 @@
 ![Screenshot from 2023-11-10 12-20-15](https://github.com/C191068/Ali_Docker/assets/89090776/6faa03fa-2395-46e0-af2f-17fd21bd41f4)
 
 Monolethic archutect are build on a single unit <br>
-it means an IDE will hold ultile projects and will be comile in a single unit <br>
+it means an IDE will hold multiple projects and will be compile in a single unit <br>
 
 they are also deployed as a single unit <br>
 
