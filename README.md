@@ -19,7 +19,7 @@ and copy and delpoy the whole system on VM <br>
 
 examle is 3 tier application <br>
 
-even though the system was separated into layers iut was tighty coupled from the web project <br>
+even though the system was separated into layers it was tighty coupled from the web project <br>
  to the business layer project <br>
 
  and the whole system will run in same address space <br>
@@ -33,11 +33,11 @@ let us say we have a class that deal with idenity with business layer <br>
 
 we can extract that code and place it in own microservice <br>
 
-we can then scale each of these smaller pieces indeendently from each other <br>
+we can then scale each of these smaller pieces independently from each other <br>
 
 there is no strong bound since we expose functionality through API <br>
 
-they can be written by smaller teams nd each can use their own <br>
+they can be written by smaller teams and each can use their own <br>
 
 programming languages like Go, PHP and C# <br>
 
@@ -53,25 +53,25 @@ the way we will deploy a monolithic system  is by deloying everything on a serve
 we have to scale and deploy everything on more servers <br>
 
 
-microservices are deloyed indeendently <br>
+microservices are deloyed independently <br>
 
 ![Screenshot from 2023-11-10 14-36-23](https://github.com/C191068/Ali_Docker/assets/89090776/f0205911-399f-4367-8df7-0d6fb9904778)
 
 they can be scaled independently also <br>
 
 
-how can we convert monolithic system to icroservice architecture <br>
+how can we convert monolithic system to microservice architecture <br>
 
 we need to break it into small units <br>
 
-unlike the code that dealt with ientiy in busines layer <br>
+unlike the code that dealt with identity in busines layer <br>
 
 
-Martin fowler author author of atterns of entrrise applice architecture <br>
+Martin fowler author author of patterns of enterprise application architecture <br>
 
 book documented a way to achieve such transformation <br>
 
-using yhe strangler pattern <br>
+using the strangler pattern <br>
 
 
 # Micrservoces anti pattern <br>
