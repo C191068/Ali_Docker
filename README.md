@@ -31,11 +31,11 @@ even though the system was separated into layers iut was tighty coupled from the
  
 let us say we have a class that deal with idenity with business layer <br>
 
-we can extract that code and place it in own mcroservice <br>
+we can extract that code and place it in own microservice <br>
 
 we can then scale each of these smaller pieces indeendently from each other <br>
 
-there is no srong bound since we expose functionality through API <br>
+there is no strong bound since we expose functionality through API <br>
 
 they can be written by smaller teams nd each can use their own <br>
 
